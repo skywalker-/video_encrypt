@@ -14,9 +14,8 @@
 
 ## 🛠️ Tech Stack
 
-- Java (if used)
 - XML configuration (for control or metadata)
-- FFmpeg or native video handling libraries (if applicable)
+- Native video handling libraries
 - Basic GUI (Swing/JavaFX) or CLI tool
 - Custom encryption algorithm or AES/Blowfish
 
@@ -24,7 +23,6 @@
 
 ## 📦 Installation
 
-> _Adjust if compiled via Eclipse/IntelliJ_
 
 ```bash
 git clone https://github.com/skywalker-/video_encrypt.git
